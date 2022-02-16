@@ -1,2 +1,2 @@
 # dirIO
-statistics script tool for monitoring directory data input/output (changed files/dirs, total amount of data and bandwidth) 
+statistics script tool for monitoring directory data input/output (changed files/subdirs, total amount of data and bandwidth) 
